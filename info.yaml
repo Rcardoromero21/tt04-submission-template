@@ -24,7 +24,7 @@ documentation:
   author:       "Ricardo"      # Your name
   title:        "TEST"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "TEST"      # Short description of what your project does
+  description:  "TEST V"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
